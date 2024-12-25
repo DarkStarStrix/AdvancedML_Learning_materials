@@ -6,7 +6,7 @@ This repository contains code examples, data, and plots for a machine learning c
 
 1. [Lesson 1: Abstract Linear Algebra for ML and Optimization](#lesson-1-abstract-linear-algebra-for-ml-and-optimization) (done)
 2. [Lesson 2: Statistical Foundations and Probability Theory](#lesson-2-statistical-foundations-and-probability-theory) (done)
-3. [Lesson 3: Deep Optimization Techniques](#lesson-3-deep-optimization-techniques) (coming soon)
+3. [Lesson 3: Deep Optimization Techniques](#lesson-3-deep-optimization-techniques) (done)
 4. [Lesson 4: Hyperparameter Tuning with Optuna](#lesson-4-hyperparameter-tuning-with-optuna) (coming soon)
 5. [Lesson 5: Quantization and Model Compression](#lesson-5-quantization-and-model-compression) (coming soon)
 6. [Lesson 6: Big Data Analytics and Distributed Systems](#lesson-6-big-data-analytics-and-distributed-systems) (coming soon)
@@ -32,6 +32,9 @@ Delve into the process of matrix factorization using the JAX library. Compare an
 ### Practical Performance Comparisons
 Analyze performance metrics by implementing matrix operations using NumPy and JAX. Gain insights into optimization strategies for large-scale datasets.
 
+File location for this lesson:
+All the scripts and plots for this lesson are located in the `Abstract linear Algebra` folder.
+
 ## Lesson 2: Statistical Foundations and Probability Theory
 
 ### Introduction to Probability Theory
@@ -48,6 +51,9 @@ Understand the theory and implementation of Gaussian Mixture Models for modeling
 
 ### Applications of Statistical Learning
 Explore real-world applications of statistical methods and probability theory in machine learning. Discuss case studies and practice applying these techniques to datasets.
+
+File location for this lesson:
+All the scripts and plots for this lesson are located in the `Statistical Foundations and Probability Theory` folder.
 
 ## Lesson 3: Deep Optimization Techniques
 
@@ -66,6 +72,9 @@ Compare and contrast optimization strategies using JAX and PyTorch. Evaluate per
 ### Real-world Application of Optimization Techniques
 Apply advanced optimization techniques to real-world machine learning problems. Discuss case studies where these methodologies have improved model performance.
 
+File location for this lesson:
+All the scripts and plots for this lesson are located in the `Deep Optimization Techniques` folder.
+
 ## Lesson 4: Hyperparameter Tuning with Optuna
 
 ### Understanding Hyperparameter Tuning
@@ -81,7 +90,10 @@ Learn how to implement Optuna for optimizing CNN hyperparameters on the CIFAR-10
 Master the use of Optuna to tune hyperparameters for LSTM models on time-series data. Gain insights into adjusting configurations for optimal forecasting performance.
 
 ### Advanced Strategies for Hyperparameter Search
-Explore advanced search strategies within Optuna including Bayesian optimization and pruning techniques. Learn to enhance efficiency in finding optimal parameters.
+Explore advanced search strategies within Optuna, including Bayesian optimization and pruning techniques. Learn to enhance efficiency in finding optimal parameters.
+
+File location for this lesson:
+All the scripts and plots for this lesson are located in the `Understanding Hyperparameter tuing` folder.
 
 ## Lesson 5: Quantization and Model Compression
 
@@ -99,6 +111,9 @@ Delve into quantization-aware training to improve model accuracy post-quantizati
 
 ### Comparing Quantization Techniques
 Analyze the effectiveness and trade-offs between different quantization methods. Compare accuracy, speed, and resource utilization to determine optimal practices for your AI needs.
+
+File location for this lesson:
+All the scripts and plots for this lesson are located in the `Quantization and Model Compression` folder.
 
 ## Lesson 6: Big Data Analytics and Distributed Systems
 
@@ -120,6 +135,9 @@ Understand the challenges and strategies for building scalable applications usin
 ### Case Study: Distributed Machine Learning Pipeline
 Analyze a complete end-to-end machine learning pipeline in a distributed system. Apply learned concepts to design and implement a multi-node distributed training pipeline.
 
+File location for this lesson:
+All the scripts and plots for this lesson are located in the `Big Data Analytics and Distributed Systems` folder.
+
 ## Lesson 7: Capstone Project: Real-World Application
 
 ### Project Selection and Scope Definition
@@ -140,6 +158,9 @@ Design strategies to evaluate model performance effectively. Learn deployment te
 ### Presentation and Knowledge Sharing
 Prepare and deliver a comprehensive presentation of the project findings. Emphasize lessons learned and possible future enhancements.
 
+File location for this lesson:
+All the scripts and plots for this lesson are located in the `Capstone Project: Real-World Application` folder.
+
 ## Lesson 8: Optuna-Driven Quantization for Production
 
 ### Integrating Optuna with JAX and TensorFlow
@@ -157,6 +178,9 @@ Master the deployment of models optimized through Optuna-driven quantization. Ga
 ### Case Studies: Optuna-Driven Optimization Success
 Analyze real-world case studies where Optuna-driven quantization significantly enhanced model performance. Discuss the methodologies and techniques that led to successful optimization and deployment.
 
+File location for this lesson:
+All the scripts and plots for this lesson are located in the `Optuna-Driven Quantization for Production` folder.
+
 ## File Structure
 
 ```
@@ -164,7 +188,10 @@ AdvancedML_materials/
 Abstract linear Algebra/
   Scrpits/
   Plots/
- Statistical Foundations and Probability Theory/
+Statistical Foundations and Probability Theory/
+  Scrpits/
+  Plots/
+Deep Optimization Techniques/
   Scrpits/
   Plots/
 ```
