@@ -7,7 +7,7 @@ This repository contains code examples, data, and plots for a machine learning c
 1. [Lesson 1: Abstract Linear Algebra for ML and Optimization](#lesson-1-abstract-linear-algebra-for-ml-and-optimization) (done)
 2. [Lesson 2: Statistical Foundations and Probability Theory](#lesson-2-statistical-foundations-and-probability-theory) (done)
 3. [Lesson 3: Deep Optimization Techniques](#lesson-3-deep-optimization-techniques) (done)
-4. [Lesson 4: Hyperparameter Tuning with Optuna](#lesson-4-hyperparameter-tuning-with-optuna) (coming soon)
+4. [Lesson 4: Hyperparameter Tuning with Optuna](#lesson-4-hyperparameter-tuning-with-optuna) (done)
 5. [Lesson 5: Quantization and Model Compression](#lesson-5-quantization-and-model-compression) (coming soon)
 6. [Lesson 6: Big Data Analytics and Distributed Systems](#lesson-6-big-data-analytics-and-distributed-systems) (coming soon)
 7. [Lesson 7: Capstone Project: Real-World Application](#lesson-7-capstone-project-real-world-application) (coming soon)
