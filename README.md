@@ -11,7 +11,7 @@ This repository contains code examples, data, and plots for a machine learning c
 5. [Lesson 5: Quantization and Model Compression](#lesson-5-quantization-and-model-compression) (done)
 6. [Lesson 6: Big Data Analytics and Distributed Systems](#lesson-6-big-data-analytics-and-distributed-systems) (done)
 7. [Lesson 7: Capstone Project: Real-World Application](#lesson-7-capstone-project-real-world-application) (done)
-8. [Lesson 8: Optuna-Driven Quantization for Production](#lesson-8-optuna-driven-quantization-for-production) (coming soon)
+8. [Lesson 8: Optuna-Driven Quantization for Production](#lesson-8-optuna-driven-quantization-for-production) (done)
 9. [File Structure](#file-structure)
 10. [How to Use](#how-to-use)
 
